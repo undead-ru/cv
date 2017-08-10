@@ -3,5 +3,5 @@ St.Petersburg, Russia
 
 Email: klim.arbuzov@gmail.com
 
-CV: http://me.undead.ru
+CV: http://cv.undead.ru
 
